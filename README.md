@@ -26,7 +26,7 @@ You can download the latest version of the project from the link below:
 
 <div style="text-align:center;">
     <a href=".bak LINKI BURAYA GELECEK">
-        <img src="https://raw.githubusercontent.com/beydah/Assets-Repository/6124749180f95990813b306a33f9cd5fa8a32397/images/downloadButton.svg" alt="Download Database.xlsx" height="100">
+        <img src="https://raw.githubusercontent.com/beydah/Assets-Repository/6124749180f95990813b306a33f9cd5fa8a32397/images/downloadButton.svg" alt="Download Button" height="100">
     </a>
 </div>
 <div style="text-align:center;">
