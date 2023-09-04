@@ -42,7 +42,7 @@ The project welcomes contributions from developers as an open-source initiative 
 - [x] **LOREM IMPSUM:**
       LOREM IMPSUM
       
-- [ ] **LOREM IMPSUM**
+- [ ] **LOREM IMPSUM:**
       LOREM IMPSUM
 
 <div style="text-align:center;">
@@ -51,4 +51,4 @@ The project welcomes contributions from developers as an open-source initiative 
 
 ## Terms of Use
 
-The Basic Bank Database Project is licensed under the [GNU General Public License (GPL)](https://github.com/beydah/HospitalDB-OpenSRC/blob/main/LICENSE). For more information, please refer to the [license text](https://github.com/beydah/HospitalDB-OpenSRC/blob/main/LICENSE).
+The Basic Hospital Database Project is licensed under the [GNU General Public License (GPL)](https://github.com/beydah/HospitalDB-OpenSRC/blob/main/LICENSE). For more information, please refer to the [license text](https://github.com/beydah/HospitalDB-OpenSRC/blob/main/LICENSE).
