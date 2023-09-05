@@ -50,14 +50,10 @@ You can download the latest version of the project from the link below:
 ## Open Source Support
 
 The project welcomes contributions from developers as an open-source initiative to support its ongoing development. You can contribute to the project by completing the tasks listed below.
-
-### To Do List:
-
 We are open to all kinds of contributions to help us improve this project. Join us in contributing to the healthcare sector and help us provide a better hospital management experience.
-
 To contribute to the project or learn more, visit the GitHub repository. Take a look at the to-do list:
 
-**To Do List:**
+### To Do List:
 
 - [x] Medications Table
 - [ ] Laboratory Results Table
