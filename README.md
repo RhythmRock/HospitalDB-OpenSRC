@@ -14,7 +14,7 @@ LOREM IMPSUM
 
 <!-- DATABASE DIAGRAM -->
 <div style="text-align:center;">
-    <img src="İLİŞKİSEL DB DİYAGRAMI BURAYA GELECEK" alt="DB Diagram">
+    <img src="https://raw.githubusercontent.com/beydah/HospitalDB-OpenSRC/main/ASSETS/DB_Diagram.png" alt="DB Diagram">
 </div>
 <div style="text-align:center;">
     <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
