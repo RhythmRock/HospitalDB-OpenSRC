@@ -10,7 +10,21 @@
 
 ## Description
 
-LOREM IMPSUM
+This open-source hospital database project aims to provide a database solution that meets the fundamental needs of hospitals. It is designed to assist hospitals in managing their patients, doctors, appointments, medical records, and more.
+
+By using this project, hospitals and healthcare organizations can create a database solution tailored to their needs or enhance their existing systems. The project is open-source, so it is always open to community contributions. You can customize and improve it according to your own requirements.
+
+### Project Features:
+
+**Patient Management:** You can create, update, and delete patient records and easily access patient information.
+
+**Doctor Management:** You can create and update profiles of doctors working at the hospital.
+
+**Appointment Tracking:** You can create appointments for patients and match them with doctors.
+
+**Medical Records:** It provides a system to store and update patient medical records.
+
+**Reporting:** You can generate and analyze various reports on hospital data.
 
 <!-- DATABASE DIAGRAM -->
 <div style="text-align:center;">
@@ -39,11 +53,18 @@ The project welcomes contributions from developers as an open-source initiative 
 
 ### To Do List:
 
-- [x] **LOREM IMPSUM:**
-      LOREM IMPSUM
-      
-- [ ] **LOREM IMPSUM:**
-      LOREM IMPSUM
+We are open to all kinds of contributions to help us improve this project. Join us in contributing to the healthcare sector and help us provide a better hospital management experience.
+
+To contribute to the project or learn more, visit the GitHub repository. Take a look at the to-do list:
+
+**To Do List:**
+
+- [x] Medications Table
+- [ ] Laboratory Results Table
+- [ ] Surgeries Table
+- [ ] Insurance Information Table
+- [ ] Payment Information Table
+- [ ] Reports Table
 
 <div style="text-align:center;">
     <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
