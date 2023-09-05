@@ -2,7 +2,7 @@
 
 <!-- KAPAK FOTOĞRAFI -->
 <div style="text-align:center;">
-    <img src="KAPAK FOTO PNG LİNK BURAYA GELECEK" alt="DB Design Wallpaper">
+    <img src="https://raw.githubusercontent.com/beydah/HospitalDB-OpenSRC/main/ASSETS/DB_Design.png" alt="DB Design Wallpaper">
 </div>
 <div style="text-align:center;">
     <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
